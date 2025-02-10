@@ -16,4 +16,4 @@ Welcome to an exciting game of **Tic-Tac-Toe**! This classic two-player game let
 - **JavaScript** (utilizing Factory Functions & Module Pattern) for game logic  
 
 ### **🎮 Try It Out!**  
-Check out the live demo and experience the game in action! 🚀
+Check out the live demo https://hetpatel7131.github.io/tic-tac-toe-game/ and experience the game in action! 🚀
